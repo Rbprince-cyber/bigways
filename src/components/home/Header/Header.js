@@ -179,8 +179,8 @@ useEffect(() => {
                           transition={{ duration: 0.4 }}
                           className="text-sm flex flex-col gap-1"
                         >
-                          <li className="headerSedenavLi">New</li>
-                          <li className="headerSedenavLi">Gudgets</li>
+                          <li className="headerSedenavLi">All</li>
+                          <li className="headerSedenavLi">Cloths</li>
                           <li className="headerSedenavLi">Accessories</li>
                           <li className="headerSedenavLi">Electronics</li>
                           <li className="headerSedenavLi">Others</li>
@@ -202,8 +202,8 @@ useEffect(() => {
                           transition={{ duration: 0.4 }}
                           className="text-sm flex flex-col gap-1"
                         >
-                          <li className="headerSedenavLi">New Arrivals</li>
-                          <li className="headerSedenavLi">Gudgets</li>
+                          <li className="headerSedenavLi">All</li>
+                          <li className="headerSedenavLi">Cloths</li>
                           <li className="headerSedenavLi">Accessories</li>
                           <li className="headerSedenavLi">Electronics</li>
                           <li className="headerSedenavLi">Others</li>
